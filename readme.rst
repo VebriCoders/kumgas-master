@@ -1,7 +1,7 @@
-=========================================================== <br>
-Website Aplikasi KUMGAS - Kumpul Tugas 	<br>
-=========================================================== <br>
-Software House	: Pradana Industries (@pradanaindustries) <br>
+=========================================================== 
+Website Aplikasi KUMGAS - Kumpul Tugas 
+===========================================================
+Software House	: Pradana Industries (@pradanaindustries)
 Developer 	: Vebri Yusdi Putra Pradana <br>
 Instagram 	: @vebritok_blo
 Youtube   	: Vebri Developer
