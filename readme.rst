@@ -2,7 +2,7 @@
 Website Aplikasi KUMGAS - Kumpul Tugas 
 ===========================================================
 Software House	: Pradana Industries (@pradanaindustries)
-Developer 	: Vebri Yusdi Putra Pradana <br>
+Developer 	: Vebri Yusdi Putra Pradana
 Instagram 	: @vebritok_blo
 Youtube   	: Vebri Developer
 Framework 	: Codeigniter 3 HMVC Module
